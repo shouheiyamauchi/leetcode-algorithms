@@ -61,5 +61,6 @@ Example 2:
 >nums1 = [1, 2]
 >nums2 = [3, 4]
 >The median is (2 + 3)/2 = 2.5
+
 **Runtime: 122 ms**  
 **Performed better than 80.70% of other submissions**  
