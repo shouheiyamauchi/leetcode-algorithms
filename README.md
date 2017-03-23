@@ -18,7 +18,7 @@ Example:
 >Because nums[0] + nums[1] = 2 + 7 = 9,
 >return [0, 1].
 
-**Runtime: 482 ms**
+**Runtime: 482 ms**  
 **Performed better than 26.46% of other submissions**
 
 ### 2. Add Two Numbers
